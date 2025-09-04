@@ -50,8 +50,8 @@ class Desarrollador:
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=04jandro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=04jandro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
@@ -88,7 +88,7 @@ class Desarrollador:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jhonmartinez07@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/04jandro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhon-alejandro-martinez)
 
 </div>
@@ -102,7 +102,7 @@ class Desarrollador:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuusuario&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=04jandro&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
   
   ### ¡Gracias por visitar mi perfil! 🚀
   *Siempre abierto a nuevas oportunidades y colaboraciones*
