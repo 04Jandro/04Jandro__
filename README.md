@@ -1,13 +1,15 @@
 <h1 align="center">Hola 👋, soy Jhon Alejandro Martínez Potes</h1>
 <h3 align="center">Desarrollador Junior en proceso desde Colombia 🇨🇴</h3>
 
-<p align="left">
-  https://komarev.com/ghpvc/?username=04jandro__&label=Visitas%20al%20perfil&color=0e75b6&style=flat
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=04jandro__&label=Visitas%20l&color=0e75b6&style=flat
 </p>
 
-<a target="_blank" align="center">
-  https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
-</a>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggPC/giphy.gif
+</p>
+
+---
 
 - 🔧 Actualmente trabajando en proyectos personales  
 - 🌱 Aprendiendo más a fondo **Python** y **PHP**  
@@ -16,28 +18,15 @@
 - 🛠️ Temas que domino: **Mantenimiento de equipos** y **Desarrollo web**  
 - 📫 Puedes contactarme en: **Jhonmartinez07@hotmail.com**
 
-<br/>
+---
 
-<h3 align="center">🤝 Conecta conmigo</h3>
+### 🤝 Conecta conmigo
 
-<p align="center">
-  <div align="center" class="icons-social">
-    https://github.com/04jandro__
-      https://img.icons8.com/doodle/40/000000/github--v1.png
-    </a>
-    https://instagram.com/04jandro__
-      <img src="https://img.icons8.com/d00000/instagram-new--v2.png
-    </a>
-  </div>
-</p>
+[![GitHub](https://img.icons8.com/doodle/40/000000/github000000/instagram-new--nología, siempre en busca de aprender y mejorar como desarrollador.”
 
 ---
 
-### 🧠 Frase recomendada para tu perfil
+### 🚀 ¿Qué más puedo agregar?
 
-> “Apasionado por la tecnología, siempre en busca de aprender y mejorar como desarrollador.”
-
----
-
-¿Quieres que te lo entregue como archivo `.html` para que lo subas directamente a tu GitHub o portafolio? También puedo ayudarte a crear una versión en inglés si lo necesitas.
+Si quieres incluir una sección de proyectos, artículos, logros o incluso una tabla con tus tecnologías, ¡puedo ayudarte a armarla!
 
